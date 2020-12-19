@@ -59,7 +59,7 @@ const Footer = () => {
             <FooterLinkItems>
               <FooterLinkTitle>Contact </FooterLinkTitle>
               <FooterLink to="/signin">+91-6901360467</FooterLink>
-              <FooterLink to="/signin">debasishsaikia136@gmail.com</FooterLink>
+              <FooterLink to="/signin">debasishsaikia136@gmail</FooterLink>
               <FooterLink to="/signin">Technology-ReactJs,</FooterLink>
               <FooterLink to="/signin">Styled components,</FooterLink>
               <FooterLink to="/signin">HTML,ReactIcons</FooterLink>
